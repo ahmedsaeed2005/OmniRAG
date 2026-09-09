@@ -1,0 +1,29 @@
+# Virtual Environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Large videos
+*.mp4
+*.avi
+*.mov
+
+# Generated data
+data/uploads/
+data/extracted_images/
+
+# Cache
+*.cache
+
+# Large models
+*.pt
+*.pth
+*.onnx
